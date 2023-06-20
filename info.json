@@ -1,1 +1,30 @@
+{"name":"t2.world",
+"tokenSymbol":" ",
+"DaoOS":"Snapshot",
+"address":"",
+"description":"Decentralized publisher & social network, supporting niche communities where science & web3 intersect. Share your research, thought leadership, personal blog, essays, or anything you're excited about sharing in DeSci.",
+"whitePaperLink":"https://github.com/t2-world/t2.world/blob/main/t%C2%B2%20whitepaper.pdf",
+"gallery":[{
+       "name": "Intro",
+       "description": "Intro",
+       "mediaUrl": "https://i.imgur.com/Ub3AGNm.gifv",
+       "source": "image",
+       "link": "https://t2.world/writers-application"
+   }
+],
+"deleted":false,
+"primaryColor":"#e94a3a",
+"twitterHandle":"t2wrld",
+"coingeckoId":"",
+"snapshotId":"",
+"logo":"https://i.imgur.com/CNm0eaE.png",
+"telegramLink":"",
+"discordLink":"",
+"website":"https://t2.world/",
+"tokenDescription":"",
+"tokenTradeLink":"",
+"tags":["Publishing", "Ecosystems", "Blockchain protocols"]
+  
+}
+
 
